@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+# The author's personal bank QR (copied from the app's donate_qr.png, itself gitignored). Deployed with the build, never committed.
+public/assets/donate-qr.png
+
